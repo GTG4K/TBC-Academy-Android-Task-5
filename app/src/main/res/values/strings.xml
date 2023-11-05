@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TBCAcademyAndroidTask5</string>
+    <string name="log_in">Log in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="register">Register</string>
+    <string name="next">NEXT</string>
+    <string name="hint_username">Username</string>
+    <string name="sign_up">Sign up</string>
+    <string name="terms_and_conditions_label">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
+    <string name="currently_signed_in_as">Currently Signed in as</string>
+</resources>
